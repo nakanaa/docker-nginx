@@ -3,6 +3,9 @@
 # http://nginx.org/en/docs/configure.html
 # http://xmodulo.com/compile-install-nginx-web-server.html
 # https://docs.google.com/spreadsheet/ccc?key=0AjuNPnOoex7SdG5fUkhfc3BCSjJQbVVrQTg4UGU2YVE
+
+# Key config files:
+# /usr/local/nginx/nginx.conf
 FROM phusion/baseimage:0.9.16
 MAINTAINER nakanaa
 
